@@ -1,0 +1,1 @@
+amp-star-rating.md

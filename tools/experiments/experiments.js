@@ -227,6 +227,13 @@ const EXPERIMENTS = [
         'amp-selector/amp-selector.md',
   },
   {
+    id: 'amp-star-rating',
+    name: 'AMP star rating extension',
+    cleanupIssue: 'https://github.com/ampproject/amphtml/issues/2691',
+    spec: 'https://github.com/ampproject/amphtml/blob/master/extensions/' +
+        'amp-star-rating/amp-star-rating.md',
+  },
+  {
     id: 'amp-accordion-session-state-optout',
     name: 'AMP Accordion attribute to opt out of preserved state.',
     Spec: 'https://github.com/ampproject/amphtml/issues/3813',
