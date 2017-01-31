@@ -42,3 +42,13 @@ limitations under the License.
 ## Behavior
 
 The `amp-star-rating` component ...
+
+
+## Features
+
+* Touch and mouse (pointer) friendly
+* After click and the selection "sticking", mousing over it shows the new potential selection
+
+## Attributes
+
+* worstRating and bestRating, thus named to match the [schema.org Rating type](https://schema.org/Rating). They default to 1, and 5, respectively.
