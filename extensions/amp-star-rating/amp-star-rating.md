@@ -43,11 +43,23 @@ limitations under the License.
 
 The `amp-star-rating` component ...
 
+## TODO
+* disable mouse selection
+* set pointer cursor
 
 ## Features
 
 * Touch and mouse (pointer) friendly
+* Customizable number of stars
+* Half-stars
+* Configurable tooltips
+* Optional animated feedback on selection
 * After click and the selection "sticking", mousing over it shows the new potential selection
+
+### Non-goals
+
+* RTL support
+* ?? Dragging on mobile, because the finger covers the rating
 
 ## Attributes
 
