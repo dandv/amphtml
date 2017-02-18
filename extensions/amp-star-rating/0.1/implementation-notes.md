@@ -5,7 +5,7 @@ There are easily [50+ open sourced star rating widgets](https://github.com/dandv
 
 ## Fallback elements
 
-[Most often](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/), the underlying elements for star ratings are radio buttons. Other elements that make sense are [number inputs](https://github.com/javiertoledo/bootstrap-rating-input) or [`<input type="range">`](https://gist.github.com/keithchu/1584147#gistcomment-559559), but these require creating an entire set of (inaccessible) elements to show the stars.
+[Most often](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/), the underlying elements for star ratings are radio buttons. Other elements that make sense are [number inputs](https://github.com/javiertoledo/bootstrap-rating-input) or [`<input type="range">`](https://gist.github.com/keithchu/1584147#gistcomment-559559) (here's [another approach](https://codepen.io/catharsis/pen/vquyj)), but these require creating an entire set of (inaccessible) elements to show the stars. Both range approaches require JavaScript.
 
 
 ## Accessibility
